@@ -1,0 +1,4 @@
+name: aChat
+version: 1.2
+main: com.TitaniumNetwork.aChat.Core
+author: Titanium_Network
