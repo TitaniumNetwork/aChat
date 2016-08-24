@@ -2,3 +2,18 @@ name: aChat
 version: 1.2
 main: com.TitaniumNetwork.aChat.Core
 author: Titanium_Network
+permissions:
+  rank.player:
+    default: false
+  rank.vip:
+    default: false    
+  rank.jrmod:
+    default: false
+  rank.mod:
+    default: false
+  rank.srmod:
+    default: false
+  rank.admin:
+    default: false
+  rank.owner:
+    default: false
